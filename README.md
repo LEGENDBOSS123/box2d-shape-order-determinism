@@ -1,6 +1,6 @@
 # box2d-order-determinism
 
-**Live demo: https://OWNER.github.io/box2d-order-determinism/**
+**Live demo: https://legendboss123.github.io/box2d-order-determinism/**
 
 Box2D is only deterministic if shapes are added in the same order. Two worlds with identical shapes
 that were added in a different order drift apart. This repo shows that desync side by side and
